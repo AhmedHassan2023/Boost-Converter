@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Boost_Conv_V1.0.PrjPcb]
+   Generated File[Pick Place for Boost_Conv_V1.0PCB.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:46:27 PM On 3/17/2024

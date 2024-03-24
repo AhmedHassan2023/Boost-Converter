@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+D:\Projects\01- Altuim Projects\Boost_Conv_V1.0\Project Outputs for Boost_Conv_V1.0\Pick Place for Boost_Conv_V1.0PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/03/24
+Time:       13:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Footprint","Center-X(mil)","Center-Y(mil)","Description","Value"
+"Q1","IRF540N","TO247","-272.000","-303.066","N-Channel MOSFET",""
+"P4","Header 2","HDR1X2","-3543.452","-5094.623","Header, 2-Pin",""
+"Z1","18 V / 0.5 W","D3","-216.286","-826.906","Zener diode",""
+"H6","pin header 4p","SIP4","-3907.231","-5094.623","",""
+"R7","2.5K / 0.25W","R600","-4726.523","-3795.410","Resistor",""
+"relay_1","NT90TNCS12CB","NT90TNCS12CB","-3221.488","-881.741","NT90THLCE12CB",""
+"D2","1N4007RL","DIOAD1060W80L520D270","-4041.208","-855.961","Diode Standard 1000 V 1A Through Hole Axial",""
+"U5","MCP6004","DIP14","-3904.082","-4567.064","Low Power Quad Operational Amplifier",""
+"U4","JCT-TSRNP","JCT-TSRNP","597.493","-1198.954","",""
+"U3","JCT-TSRNP","JCT-TSRNP","-4756.129","-1047.497","",""
+"U2","VS","VSENSE","1851.430","-962.733","JCT-L25P3.3-voltage sensor",""
+"U1","VS","VSENSE","-5067.861","-4472.576","JCT-L25P3.3-voltage sensor",""
+"Relay1","Plugable_2Pin","TB2","-4229.672","-326.906","Connector",""
+"R14","Res1","AXIAL-0.3","-3392.665","-4315.095","Resistor","0"
+"R13","Res1","AXIAL-0.3","-4282.428","-4567.064","Resistor","0"
+"R12","2.5K / 0.25W","R-VSENSE","1989.225","-3090.686","",""
+"R11","Res1","AXIAL-0.3","-3498.964","-4748.166","Resistor","10K"
+"R10","Res1","AXIAL-0.3","-3621.011","-4744.229","Resistor","20K"
+"R9","Res1","AXIAL-0.3","-3617.074","-4315.095","Resistor","100K"
+"R8","Res1","AXIAL-0.3","-3504.869","-4315.095","Resistor","500K"
+"R6","Res1","AXIAL-0.3","-4282.428","-4968.639","Resistor","10K"
+"R5","Res1","AXIAL-0.3","-4400.538","-4968.639","Resistor","20K"
+"R4","Res1","AXIAL-0.3","-4400.538","-4567.064","Resistor","50K"
+"R3","Res1","AXIAL-0.3","-4400.538","-4157.615","Resistor","200K"
+"R2","10K / 0.5W","R600","2217.572","-3310.371","Resistor",""
+"R1","Res1","AXIAL-0.3","-676.523","-815.095","Resistor","2.2K"
+"Q2","IRF540N","TO247","-1536.000","-303.066","N-Channel MOSFET",""
+"Power2","Plugable_2Pin","TB2","2516.784","-3281.237","Connector",""
+"Power1","Plugable_2Pin","TB2","-5467.940","-2726.473","Connector",""
+"P3","Header 2","HDR1X2","-3303.294","-5094.473","Header, 2-Pin",""
+"P1","Header 2","HDR1X2","-1403.294","-598.560","Header, 2-Pin",""
+"L2","CON1","WIRE6MM","-599.318","-1274.820","Connector",""
+"L1","CON1","WIRE6MM","-2279.318","-1274.820","Connector",""
+"H5","pin header 4p","SIP4","79.777","-1195.804","",""
+"H4","pin header 4p","SIP4","-4782.192","-582.497","",""
+"H3","pin header 4p","SIP4","1792.769","-275.725","",""
+"H2","pin header 4p","SIP4","-4826.917","-5094.473","",""
+"H1","H2*8","","-844.239","-599.741","",""
+"GND1","CON1","WIRE6MM","-5424.161","-3563.126","Connector",""
+"D3","IRF540N","TO220","-1314.318","-1144.465","N-Channel MOSFET",""
+"D1","IRF540N","TO220","-1314.318","-1409.465","N-Channel MOSFET",""
+"C9","CAP-DC","CAP-1.5","-3569.830","-3854.269","",""
+"C8","CAP-DC","CAP-1.5","-3959.594","-3858.599","",""
+"C7","820 uF / 450 V","","964.532","-4100.037","Electrolytic Capacitors",""
+"C6","820 uF / 450 V","","-781.468","-4100.037","Electrolytic Capacitors",""
+"C5","820 uF / 450 V","","-2510.468","-4100.037","Electrolytic Capacitors",""
+"C4","820 uF / 450 V","","964.532","-2379.673","Electrolytic Capacitors",""
+"C3","820 uF / 450 V","","-781.468","-2379.673","Electrolytic Capacitors",""
+"C2","820 uF / 450 V","","-2510.468","-2379.673","Electrolytic Capacitors",""
+"C1","820 uF / 450 V","","-4217.940","-2702.673","Electrolytic Capacitors",""
+"-VE_OUT1","CON1","WIRE6MM","2436.430","-4432.221","Connector",""
+"+Vin1","CON1","WIRE6MM","-5422.232","-1556.473","Connector",""
+"+VE_OUT1","CON1","WIRE6MM","2441.430","-2067.063","Connector",""
