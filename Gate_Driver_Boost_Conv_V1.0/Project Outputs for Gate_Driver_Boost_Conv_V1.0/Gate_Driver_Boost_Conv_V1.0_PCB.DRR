@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Gate_Driver_Boost_Conv_V1.0_PCB.PcbDoc   3/17/2024  12:08:14 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Gate_Driver_Boost_Conv_V1.0_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             84        PTH        6.42inch (163.12mm)
+T2      20mil (0.508mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             3         PTH        0.66inch (16.80mm)
+T4      33mil (0.85mm)                                            Round             8         PTH        1.20inch (30.48mm)
+T5      35mil (0.889mm)                                           Round             3         PTH        0.29inch (7.40mm)
+T6      39mil (1mm)                                               Round             20        PTH        3.38inch (85.82mm)
+T7      59mil (1.5mm)                                             Round             2         PTH        0.20inch (5.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              121
+
+Total Processing Time (hh:mm:ss) : 00:00:00

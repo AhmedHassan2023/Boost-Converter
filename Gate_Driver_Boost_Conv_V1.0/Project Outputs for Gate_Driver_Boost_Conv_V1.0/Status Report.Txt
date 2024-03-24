@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Gate_Driver_Boost_Conv_V1.0.PrjPcb]
+   Generated File[Gate_Driver_Boost_Conv_V1.0_PCB.TXT]
+   Generated File[Gate_Driver_Boost_Conv_V1.0_PCB.LDP]
+   Generated File[Gate_Driver_Boost_Conv_V1.0_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:08:14 PM On 3/17/2024
