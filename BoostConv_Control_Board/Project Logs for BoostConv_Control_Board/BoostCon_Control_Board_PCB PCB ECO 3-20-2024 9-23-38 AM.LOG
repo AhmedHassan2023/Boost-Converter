@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vin_S_1 Pin=U-14
+Removed Pin From Net: NetName=Vout_S_1 Pin=U-15
+Added Pin To Net: NetName=Vout_S_1 Pin=U-14
+Added Pin To Net: NetName=Vin_S_1 Pin=U-15
+Added Member To Class: ClassName=BoostCon_Control_Board_Sch Member=Component Con CON4

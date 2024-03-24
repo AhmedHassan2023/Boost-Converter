@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=+3.3 Pin=C6-1
+Added Pin To Net: NetName=+3.3 Pin=C7-1
+Added Pin To Net: NetName=+3.3 Pin=C8-1
+Added Pin To Net: NetName=+3.3 Pin=C9-1
+Added Pin To Net: NetName=+3.3 Pin=C10-1
+Added Pin To Net: NetName=+3.3 Pin=C11-1
+Added Pin To Net: NetName=+3.3 Pin=C12-1
+Added Member To Class: ClassName=BoostCon_Control_Board_Sch Member=Component C7 Cap2
+Added Member To Class: ClassName=BoostCon_Control_Board_Sch Member=Component Con CON4
